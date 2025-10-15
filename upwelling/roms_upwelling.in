@@ -73,7 +73,7 @@
 ! Input variable information file name.  This file needs to be processed
 ! first so all information arrays can be initialized properly.
 
-     VARNAME = /gscratch/macc/parker/LO_roms_source_git/ROMS/External/varinfo.yaml
+     VARNAME = /gscratch/coastallab/tbottger/LO_roms_source_git/ROMS/External/varinfo.yaml
 
 ! Number of nested grids.
 
